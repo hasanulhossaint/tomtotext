@@ -12,7 +12,7 @@
 
 ## 🌐 Live Demo
 
-- **GitHub Pages:** [**hasanulhossaint.github.io/TomtoTEXT/**](https://hasanulhossaint.github.io/TomtoTEXT/)
+- **GitHub Pages:** [**hasanulhossaint.github.io/tomtotext/**](https://hasanulhossaint.github.io/tomtotext/)
 
 ---
 
