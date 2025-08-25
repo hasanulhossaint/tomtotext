@@ -20,19 +20,9 @@
 
 ## 🖼️ Screenshots
 
-<p align="center">
-  <strong>Dark Mode</strong>
-</p>
-<p align-center">
-  <img src="./assets/dark.png" alt="TomtoTEXT Dark Mode" width="80%">
-</p>
-
-<p align="center">
-  <strong>Light Mode</strong>
-</p>
-<p align="center">
-  <img src="./assets/light.png" alt="TomtoTEXT Light Mode" width="80%">
-</p>
+| Dark Mode | Light Mode |
+| :---: | :---: |
+| <img src="./assets/dark.png" alt="TomtoTEXT Dark Mode" width="100%"> | <img src="./assets/light.png" alt="TomtoTEXT Light Mode" width="100%"> |
 
 ---
 
